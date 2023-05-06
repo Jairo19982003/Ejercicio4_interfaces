@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\obj\Debug\net7.0\Ejercicio4_interfaces.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\obj\Debug\net7.0\Ejercicio4_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\obj\Debug\net7.0\Ejercicio4_interfaces.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\obj\Debug\net7.0\Ejercicio4_interfaces.AssemblyInfo.cs
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\obj\Debug\net7.0\Ejercicio4_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\bin\Debug\net7.0\Ejercicio4_interfaces.exe
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\bin\Debug\net7.0\Ejercicio4_interfaces.deps.json
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\bin\Debug\net7.0\Ejercicio4_interfaces.runtimeconfig.json
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\bin\Debug\net7.0\Ejercicio4_interfaces.dll
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\bin\Debug\net7.0\Ejercicio4_interfaces.pdb
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\obj\Debug\net7.0\Ejercicio4_interfaces.dll
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\obj\Debug\net7.0\refint\Ejercicio4_interfaces.dll
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\obj\Debug\net7.0\Ejercicio4_interfaces.pdb
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\obj\Debug\net7.0\Ejercicio4_interfaces.genruntimeconfig.cache
+C:\Users\admin\Desktop\COSAS TERCER SEMESTRE\PROGRAMACION I\EJERCICIO 4\Ejercicio4_interfaces\Ejercicio4_interfaces\obj\Debug\net7.0\ref\Ejercicio4_interfaces.dll
